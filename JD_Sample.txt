@@ -1,0 +1,1 @@
+Python, C++, SQL, Flask, Django, REST APIs, HTML, CSS, JavaScript, Git, GitHub, Docker, Linux, Data Structures and Algorithms, Object-Oriented Programming, DBMS, Machine Learning, NumPy, Pandas, TensorFlow, OpenCV

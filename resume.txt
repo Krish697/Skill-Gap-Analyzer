@@ -1,0 +1,51 @@
+Krish Email: krisharora697@gmail.com
+Mobile: +91-9996271321
+GitHub: Krish697
+LinkedIn: krish-arora-812336328
+LeetCode: Krish697
+Aspiring Software Engineer pursuing B.Tech in Computer Science with hands-on experience in Python, Flask,
+SQL, and full-stack development. Built scalable applications including cloud platforms and healthcare systems.
+Education
+Amity University Punjab Mohali, Punjab, India
+B.Tech in Computer Science and Engineering 2024 – Present
+CGPA: 8.06 (Current)
+Sri Guru Gobind Singh Public School Chandigarh, India
+Class XII (CBSE) 2023
+Percentage: 82.9%
+Skills Summary
+Languages: Python, C++, SQL
+Frameworks/Libraries: TensorFlow, OpenCV, Flask, NumPy, Pandas
+Core CS: Data Structures and Algorithms, OOPs, DBMS, Operating Systems
+Tools: Git, GitHub, Docker, VS Code
+Experience
+Centre for Development of Advanced Computing (C-DAC) Mohali, Punjab
+Summer/Industrial Trainee – Artificial Intelligence & Cyber Security June 2026 – July 2026
+• Successfully completed a 45-day Summer/Industrial Training Program in Artificial Intelligence and Cyber
+Security at C-DAC, Mohali
+Projects
+Face Authentication & Anti-Spoofing Python, TensorFlow, OpenCV, Flask
+• Developed a real-time face authentication system that verifies a user’s identity and detects spoofing attacks
+such as photos and screen replays
+• Trained a MobileNetV2-based binary classifier to distinguish live faces from spoofed faces using the CelebASpoof
+and CASIA-FASD datasets
+• Implemented face detection and image preprocessing using OpenCV with transfer learning and model finetuning
+using TensorFlow/Keras
+• Built a real-time camera inference pipeline and integrated the system with Flask for deployment
+Medicham Python, Flask, SQL, LangFlow
+• Developed a healthcare management system for storing and managing patient data
+• Implemented backend using Python Flask and SQL database
+• Built features for medical information tracking
+• Focused on clean UI and efficient data handling
+• GitHub: Repository
+Workout Finder Website Python, Flask, HTML, CSS
+• Developed a workout finder website for exercise recommendations
+• Designed responsive UI using HTML and CSS
+• Organized workouts by categories and fitness goals
+• GitHub: Repository
+Honors and Awards
+• Smart India Hackathon 2025 — Certificate of Participation
+Ministry of Education, Government of India
+• Makeathon 8 — Certificate of Participation
+Thapar Institute of Engineering and Technology (via Unstop)
+• Innosphere: Tech Project Inspo — Hackathon Participation
+Texplore Club & IEEE Student Branch, Amity University Punjab (Feb 2026)
